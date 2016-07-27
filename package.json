@@ -1,7 +1,7 @@
 {
-  "name": "redux-starter",
+  "name": "exilic-community-clinet",
   "version": "1.0.0",
-  "description": "Starter kit for Redux web apps",
+  "description": "Client side application for exilic community site",
   "main": "index.js",
   "scripts": {
     "postinstall": "npm run build",
